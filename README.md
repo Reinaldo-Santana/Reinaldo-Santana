@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
+
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> bem-vindo(a) ao perfil de um Dev iniciante 😁
 
  <div>
