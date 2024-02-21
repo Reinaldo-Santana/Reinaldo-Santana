@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de um Dev iniciante 😁
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> bem-vindo(a) ao perfil de um Dev iniciante 😁
 
  <div>
    <a href="https://github.com/Reinaldo-Santana">
