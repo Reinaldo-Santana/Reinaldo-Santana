@@ -1,13 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
 
-## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> bem-vindo(a) ao perfil de um Dev iniciante 😁
+## Olá! bem-vindo(a) ao perfil de um Dev iniciante <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😁
 
  <div>
    <a href="https://github.com/Reinaldo-Santana">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=transparent"/>
 </div>
-
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -34,3 +33,5 @@
 <div> 
   <a href = "mailto:reinaldogameplayer007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=footer"/>
