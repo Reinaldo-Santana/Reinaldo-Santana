@@ -9,7 +9,7 @@
 </div>
 
 <p align="left">
-  <img align="center" src="https://github.com/Reinaldo-Santana/Reinaldo-Santana/assets/160339632/f1d730be-75b4-4df4-9685-7e467adbc7be" alt="Imagem">
+  <img align="center" widht="700" height="434" src="https://github.com/Reinaldo-Santana/Reinaldo-Santana/assets/160339632/f1d730be-75b4-4df4-9685-7e467adbc7be" alt="Imagem">
 </p>
 
 
