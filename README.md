@@ -5,7 +5,7 @@
 <p>
   Sou Reinaldo! Um apaixonado estudante de Tecnologia.
 
-  - 🌱 Atualmente estou estudando Frontend.
+  - ✨ Atualmente estou estudando Frontend.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
