@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
 
-## Olá! bem-vindo(a) ao perfil de um Dev iniciante <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😁
+## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😁 bem-vindo(a) ao perfil de um Dev iniciante 
 
  <div>
    <a href="https://github.com/Reinaldo-Santana">
