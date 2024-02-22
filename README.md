@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Oi,+ME+CHAMO+Reinaldo+Santana+De+Miranda;Um+apaixonado+estudante+de+Tecnologia!;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😁 bem-vindo(a) ao perfil de um Dev iniciante 
 
 <p>
-  Sou Reinaldo! Um apaixonado estudante de Tecnologia.
-
+  
   - ✨ Atualmente estou estudando Frontend.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego.
