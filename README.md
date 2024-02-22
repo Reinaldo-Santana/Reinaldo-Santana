@@ -2,6 +2,22 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😁 bem-vindo(a) ao perfil de um Dev iniciante 
 
+<p>
+  Sou Reinaldo! Um apaixonado estudante de Tecnologia.
+
+  - 🌱 Atualmente estou estudando Frontend.
+
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
+</p>
+
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Tenho 18 anos e atualmente estou fazendo curso de Programação, onde meu objetivo é aprender FRONTEND e BACKEND e ser um desenvolvedor FullStack!
+
+  - ⚡ Gosto de ler, assistir filmes/séries/animes e jogar, além de estar sempre disposto para aprender coisas novas! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+</details>
+
  <div>
    <a href="https://github.com/Reinaldo-Santana">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
