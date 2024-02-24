@@ -25,8 +25,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
-<p align="left">
-  <img align="center" widht="700" height="434" src="https://github.com/Reinaldo-Santana/Reinaldo-Santana/assets/160339632/f1d730be-75b4-4df4-9685-7e467adbc7be" alt="Imagem">
+<p>
+  <img align="center" width=77% src="https://github.com/Reinaldo-Santana/Reinaldo-Santana/assets/160339632/f1d730be-75b4-4df4-9685-7e467adbc7be" alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
