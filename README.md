@@ -19,6 +19,8 @@
   - ⚡ Gosto de ler, assistir filmes/séries/animes e jogar, além de estar sempre disposto para aprender coisas novas! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
+<a href = "mailto:reinaldogameplayer007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
  <div>
    <a href="https://github.com/Reinaldo-Santana">
    <img height=165em src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -48,10 +50,4 @@
  
 ##
  
-### Minhas redes abaixo!
- 
-<div> 
-  <a href = "mailto:reinaldogameplayer007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=footer"/>
