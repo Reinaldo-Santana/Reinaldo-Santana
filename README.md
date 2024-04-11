@@ -19,11 +19,11 @@
   - ⚡ Gosto de ler, assistir filmes/séries/animes e jogar, além de estar sempre disposto para aprender coisas novas! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
- <div style="flex-wrap: nowrap;">
+ <div>
    <a href="https://github.com/Reinaldo-Santana">
-   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height=165em src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=transparent"/>
-</div>
+ </div>
 
 <p align="left">
   <img width=700px align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
