@@ -8,7 +8,7 @@
   
   - ✨ Atualmente estou estudando Frontend.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
+  - 🔎 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <details>
