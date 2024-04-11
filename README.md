@@ -22,7 +22,7 @@
  <div>
    <a href="https://github.com/Reinaldo-Santana">
    <img height=165em src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Santana&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height=168em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=transparent"/>
+   <img height=167em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Santana&layout=compact&langs_count=6&theme=transparent"/>
  </div>
 
 <p align="left">
