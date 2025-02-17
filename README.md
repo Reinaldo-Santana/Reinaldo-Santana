@@ -49,5 +49,7 @@
  </div>
  
 ##
+
+![snake gif](https://github.com/Reinaldo-Santana/Reinaldo-Santana/blob/output/github-contribution-grid-snake.svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=footer"/>
